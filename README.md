@@ -1,2 +1,4 @@
-# MLP
-Multi Layer Perceptron Implementations based on Karapathy's video on makemore MLP
+# MLP++ 
+
+Multi Layer Perceptron and other Implementations based on Karapthy's video on makemore. 
+
